@@ -1,0 +1,12 @@
+langchain
+langchain-google-genai
+langchain-core
+langchain-groq
+
+langgraph
+ipykernel
+pyrit
+pandas
+numpy
+networkx
+python-dotenv
